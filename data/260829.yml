@@ -1,0 +1,62 @@
+about:
+  description: Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.
+  license: NOASSERTION
+  homepage: 
+  head: 8071316
+  archived: false
+  latestVersion: v1.5.1-beta.1
+  collectedAt: 2026-08-29T05:14:12Z
+timeline:
+  created: 2026-02-28
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-28
+popularity:
+  star: 15241
+  watcher: 30
+  fork: 1509
+  release: 49
+  contributor: 152
+  pullRequest: 542
+  issue: 654
+language:
+  Go: 6580840
+  TypeScript: 325548
+  JavaScript: 9854
+  Makefile: 6369
+  HTML: 4880
+  Shell: 4633
+  CSS: 1962
+totalLine: 6934086
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 5
+    mergedPR: 26
+    openPR: 70
+    closedIssue: 12
+    openIssue: 30
+    commit: 46
+  last90d:
+    since: 2026-05-31
+    release: 15
+    mergedPR: 138
+    openPR: 165
+    closedIssue: 124
+    openIssue: 95
+    commit: 205
+  last180d:
+    since: 2026-03-02
+    release: 42
+    mergedPR: 565
+    openPR: 310
+    closedIssue: 415
+    openIssue: 236
+    commit: 1030
+  last360d:
+    since: 2025-09-03
+    release: 49
+    mergedPR: 565
+    openPR: 310
+    closedIssue: 418
+    openIssue: 236
+    commit: 1098
