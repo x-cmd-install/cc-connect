@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 16554300,
       "digest": "sha256:72859035a1ee011b710204fc508de711838f919eb2ae6f104f1ddb3e5cd8ca87",
-      "download_count": 4192,
+      "download_count": 4194,
       "created_at": "2026-08-16T15:06:29Z",
       "updated_at": "2026-08-16T15:06:44Z",
       "browser_download_url": "https://github.com/chenhg5/cc-connect/releases/download/v1.5.0/cc-connect-v1.5.0-linux-amd64.tar.gz"
