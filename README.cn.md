@@ -4,7 +4,7 @@
 
 Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.
 
-![cc-connect](https://repo.x-cmd.io/cc-connect.svg?lang=zh)
+[![x-cmd/install — cc-connect Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cc-connect.svg?lang=zh)](https://x-cmd.com/install/cc-connect)
 
 ## 安装
 
@@ -37,22 +37,22 @@ x install cc-connect
 
 ## 流行度
 
-- **Star**: 15,543 · **Fork**: 1,561 · **开放 issue**: 690 · **贡献者**: 156
+- **Star**: 15,572 · **Fork**: 1,568 · **开放 issue**: 690 · **贡献者**: 156
 
 ## 累计统计
 
-- **发布数**: 49 · **已合并 PR**: 572 · **开放 PR**: 356 · **已关闭 issue**: 445 · **开放 issue**: 245 · **提交数**: 1222
+- **发布数**: 49 · **已合并 PR**: 572 · **开放 PR**: 364 · **已关闭 issue**: 445 · **开放 issue**: 245 · **提交数**: 1222
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 18 | 78 | 14 | 39 | 24 |
-| last60d | 2026-07-20 | 5 | 37 | 137 | 41 | 55 | 59 |
-| 90d | 2026-06-20 | 12 | 59 | 174 | 95 | 74 | 106 |
-| last180d | 2026-03-22 | 29 | 439 | 347 | 361 | 232 | 667 |
-| 360d | 2025-09-23 | 49 | 572 | 356 | 445 | 245 | 1105 |
-| last720d | 2024-09-28 | 49 | 572 | 356 | 445 | 245 | 1222 |
+| 30d | 2026-08-21 | 1 | 17 | 86 | 14 | 37 | 15 |
+| last60d | 2026-07-22 | 5 | 34 | 139 | 37 | 55 | 53 |
+| 90d | 2026-06-22 | 12 | 56 | 182 | 88 | 72 | 84 |
+| last180d | 2026-03-24 | 28 | 420 | 349 | 350 | 228 | 611 |
+| 360d | 2025-09-25 | 49 | 572 | 364 | 445 | 245 | 1105 |
+| last720d | 2024-09-30 | 49 | 572 | 364 | 445 | 245 | 1222 |
 
 ## Release 资产
 
@@ -75,4 +75,4 @@ cc-connect 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:07:28Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:03:32Z._

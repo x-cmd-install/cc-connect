@@ -4,7 +4,7 @@
 
 Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.
 
-![cc-connect](https://repo.x-cmd.io/cc-connect.svg)
+[![x-cmd/install — cc-connect Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cc-connect.svg)](https://x-cmd.com/install/cc-connect)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **196,178** lines of code across **538** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 15,543 · **Forks**: 1,561 · **Open issues**: 690 · **Contributors**: 156
+- **Stars**: 15,572 · **Forks**: 1,568 · **Open issues**: 690 · **Contributors**: 156
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 572 · **Open PRs**: 356 · **Closed issues**: 445 · **Open issues**: 245 · **Commits**: 1222
+- **Releases**: 49 · **Merged PRs**: 572 · **Open PRs**: 364 · **Closed issues**: 445 · **Open issues**: 245 · **Commits**: 1222
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 18 | 78 | 14 | 39 | 24 |
-| last60d | 2026-07-20 | 5 | 37 | 137 | 41 | 55 | 59 |
-| 90d | 2026-06-20 | 12 | 59 | 174 | 95 | 74 | 106 |
-| last180d | 2026-03-22 | 29 | 439 | 347 | 361 | 232 | 667 |
-| 360d | 2025-09-23 | 49 | 572 | 356 | 445 | 245 | 1105 |
-| last720d | 2024-09-28 | 49 | 572 | 356 | 445 | 245 | 1222 |
+| 30d | 2026-08-21 | 1 | 17 | 86 | 14 | 37 | 15 |
+| last60d | 2026-07-22 | 5 | 34 | 139 | 37 | 55 | 53 |
+| 90d | 2026-06-22 | 12 | 56 | 182 | 88 | 72 | 84 |
+| last180d | 2026-03-24 | 28 | 420 | 349 | 350 | 228 | 611 |
+| 360d | 2025-09-25 | 49 | 572 | 364 | 445 | 245 | 1105 |
+| last720d | 2024-09-30 | 49 | 572 | 364 | 445 | 245 | 1222 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for cc-connect lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:07:28Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:03:31Z._
