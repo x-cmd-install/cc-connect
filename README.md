@@ -37,22 +37,22 @@ Total: **200,657** lines of code across **552** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 15,591 · **Forks**: 1,571 · **Open issues**: 691 · **Contributors**: 163
+- **Stars**: 15,614 · **Forks**: 1,573 · **Open issues**: 692 · **Contributors**: 163
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 587 · **Open PRs**: 353 · **Closed issues**: 455 · **Open issues**: 236 · **Commits**: 1237
+- **Releases**: 49 · **Merged PRs**: 587 · **Open PRs**: 354 · **Closed issues**: 456 · **Open issues**: 236 · **Commits**: 1237
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 1 | 32 | 75 | 22 | 29 | 30 |
-| last60d | 2026-07-23 | 5 | 49 | 126 | 43 | 46 | 68 |
-| 90d | 2026-06-23 | 11 | 70 | 171 | 98 | 63 | 99 |
-| last180d | 2026-03-25 | 28 | 430 | 335 | 358 | 218 | 626 |
-| 360d | 2025-09-26 | 49 | 587 | 353 | 455 | 236 | 1120 |
-| last720d | 2024-10-01 | 49 | 587 | 353 | 455 | 236 | 1237 |
+| 30d | 2026-08-23 | 1 | 30 | 76 | 21 | 29 | 30 |
+| last60d | 2026-07-24 | 5 | 48 | 127 | 43 | 46 | 68 |
+| 90d | 2026-06-24 | 10 | 67 | 172 | 96 | 62 | 99 |
+| last180d | 2026-03-26 | 28 | 428 | 334 | 357 | 216 | 626 |
+| 360d | 2025-09-27 | 49 | 587 | 354 | 456 | 236 | 1120 |
+| last720d | 2024-10-02 | 49 | 587 | 354 | 456 | 236 | 1237 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for cc-connect lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T06:28:53Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T06:13:43Z._
