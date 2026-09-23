@@ -4,7 +4,7 @@
 
 Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.
 
-[![x-cmd/install — cc-connect Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cc-connect.svg)](https://x-cmd.com/install/cc-connect)
+[![x-cmd/install — cc-connect Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/cc-connect.svg)](https://x-cmd.com/install/cc-connect)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **200,657** lines of code across **552** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 15,614 · **Forks**: 1,573 · **Open issues**: 692 · **Contributors**: 163
+- **Stars**: 15,634 · **Forks**: 1,575 · **Open issues**: 696 · **Contributors**: 163
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 587 · **Open PRs**: 354 · **Closed issues**: 456 · **Open issues**: 236 · **Commits**: 1237
+- **Releases**: 49 · **Merged PRs**: 587 · **Open PRs**: 357 · **Closed issues**: 458 · **Open issues**: 238 · **Commits**: 1237
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 30 | 76 | 21 | 29 | 30 |
-| last60d | 2026-07-24 | 5 | 48 | 127 | 43 | 46 | 68 |
-| 90d | 2026-06-24 | 10 | 67 | 172 | 96 | 62 | 99 |
-| last180d | 2026-03-26 | 28 | 428 | 334 | 357 | 216 | 626 |
-| 360d | 2025-09-27 | 49 | 587 | 354 | 456 | 236 | 1120 |
-| last720d | 2024-10-02 | 49 | 587 | 354 | 456 | 236 | 1237 |
+| 30d | 2026-08-24 | 1 | 26 | 77 | 19 | 33 | 30 |
+| last60d | 2026-07-25 | 5 | 48 | 130 | 44 | 48 | 68 |
+| 90d | 2026-06-25 | 10 | 65 | 174 | 97 | 64 | 99 |
+| last180d | 2026-03-27 | 28 | 425 | 336 | 359 | 217 | 626 |
+| 360d | 2025-09-28 | 49 | 587 | 357 | 458 | 238 | 1120 |
+| last720d | 2024-10-03 | 49 | 587 | 357 | 458 | 238 | 1237 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for cc-connect lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:13:43Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:23:08Z._

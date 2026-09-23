@@ -4,7 +4,7 @@
 
 Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.
 
-[![x-cmd/install — cc-connect Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cc-connect.svg?lang=zh)](https://x-cmd.com/install/cc-connect)
+[![x-cmd/install — cc-connect Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/cc-connect.svg?lang=zh)](https://x-cmd.com/install/cc-connect)
 
 ## 安装
 
@@ -37,22 +37,22 @@ x install cc-connect
 
 ## 流行度
 
-- **Star**: 15,614 · **Fork**: 1,573 · **开放 issue**: 692 · **贡献者**: 163
+- **Star**: 15,634 · **Fork**: 1,575 · **开放 issue**: 696 · **贡献者**: 163
 
 ## 累计统计
 
-- **发布数**: 49 · **已合并 PR**: 587 · **开放 PR**: 354 · **已关闭 issue**: 456 · **开放 issue**: 236 · **提交数**: 1237
+- **发布数**: 49 · **已合并 PR**: 587 · **开放 PR**: 357 · **已关闭 issue**: 458 · **开放 issue**: 238 · **提交数**: 1237
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 30 | 76 | 21 | 29 | 30 |
-| last60d | 2026-07-24 | 5 | 48 | 127 | 43 | 46 | 68 |
-| 90d | 2026-06-24 | 10 | 67 | 172 | 96 | 62 | 99 |
-| last180d | 2026-03-26 | 28 | 428 | 334 | 357 | 216 | 626 |
-| 360d | 2025-09-27 | 49 | 587 | 354 | 456 | 236 | 1120 |
-| last720d | 2024-10-02 | 49 | 587 | 354 | 456 | 236 | 1237 |
+| 30d | 2026-08-24 | 1 | 26 | 77 | 19 | 33 | 30 |
+| last60d | 2026-07-25 | 5 | 48 | 130 | 44 | 48 | 68 |
+| 90d | 2026-06-25 | 10 | 65 | 174 | 97 | 64 | 99 |
+| last180d | 2026-03-27 | 28 | 425 | 336 | 359 | 217 | 626 |
+| 360d | 2025-09-28 | 49 | 587 | 357 | 458 | 238 | 1120 |
+| last720d | 2024-10-03 | 49 | 587 | 357 | 458 | 238 | 1237 |
 
 ## Release 资产
 
@@ -75,4 +75,4 @@ cc-connect 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:13:43Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:23:09Z._
