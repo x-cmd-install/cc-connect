@@ -14,11 +14,11 @@ x install cc-connect
 
 ## Code insight
 
-Total: **205,224** lines of code across **565** files in the top 5 languages.
+Total: **205,525** lines of code across **566** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 190,406 | 15,895 | 22,817 | 494 |
+| Go | 190,707 | 15,961 | 22,844 | 495 |
 | Tsx | 6,689 | 81 | 491 | 31 |
 | Json | 4,199 | 0 | 0 | 15 |
 | Yaml | 2,173 | 0 | 601 | 2 |
@@ -32,27 +32,27 @@ Total: **205,224** lines of code across **565** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.5.1-beta.3` (2026-08-16)
-- **Last commit**: 2026-10-14
+- **Last commit**: 2026-10-16
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 15,938 · **Forks**: 1,631 · **Open issues**: 734 · **Contributors**: 177
+- **Stars**: 15,965 · **Forks**: 1,638 · **Open issues**: 736 · **Contributors**: 179
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 633 · **Open PRs**: 381 · **Closed issues**: 490 · **Open issues**: 244 · **Commits**: 1296
+- **Releases**: 51 · **Merged PRs**: 634 · **Open PRs**: 384 · **Closed issues**: 491 · **Open issues**: 245 · **Commits**: 1299
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 2 | 23 | 82 | 7 | 41 | 57 |
-| last60d | 2026-08-16 | 6 | 69 | 136 | 39 | 59 | 81 |
-| 90d | 2026-07-17 | 7 | 92 | 180 | 76 | 64 | 118 |
-| last180d | 2026-04-18 | 27 | 357 | 312 | 313 | 192 | 497 |
-| 360d | 2025-10-20 | 51 | 633 | 381 | 490 | 244 | 1167 |
-| last720d | 2024-10-25 | 51 | 633 | 381 | 490 | 244 | 1296 |
+| 30d | 2026-09-16 | 2 | 24 | 83 | 7 | 41 | 59 |
+| last60d | 2026-08-17 | 3 | 67 | 137 | 39 | 60 | 83 |
+| 90d | 2026-07-18 | 7 | 92 | 182 | 76 | 66 | 120 |
+| last180d | 2026-04-19 | 25 | 349 | 315 | 309 | 192 | 499 |
+| 360d | 2025-10-21 | 51 | 634 | 384 | 491 | 245 | 1169 |
+| last720d | 2024-10-26 | 51 | 634 | 384 | 491 | 245 | 1299 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for cc-connect lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T05:34:02Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T05:30:04Z._
