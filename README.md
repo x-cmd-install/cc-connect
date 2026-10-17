@@ -14,11 +14,11 @@ x install cc-connect
 
 ## Code insight
 
-Total: **205,525** lines of code across **566** files in the top 5 languages.
+Total: **205,968** lines of code across **567** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 190,707 | 15,961 | 22,844 | 495 |
+| Go | 191,150 | 16,006 | 22,889 | 496 |
 | Tsx | 6,689 | 81 | 491 | 31 |
 | Json | 4,199 | 0 | 0 | 15 |
 | Yaml | 2,173 | 0 | 601 | 2 |
@@ -37,22 +37,22 @@ Total: **205,525** lines of code across **566** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 15,965 · **Forks**: 1,638 · **Open issues**: 736 · **Contributors**: 179
+- **Stars**: 15,974 · **Forks**: 1,640 · **Open issues**: 737 · **Contributors**: 179
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 634 · **Open PRs**: 384 · **Closed issues**: 491 · **Open issues**: 245 · **Commits**: 1299
+- **Releases**: 51 · **Merged PRs**: 637 · **Open PRs**: 384 · **Closed issues**: 492 · **Open issues**: 245 · **Commits**: 1310
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 2 | 24 | 83 | 7 | 41 | 59 |
-| last60d | 2026-08-17 | 3 | 67 | 137 | 39 | 60 | 83 |
-| 90d | 2026-07-18 | 7 | 92 | 182 | 76 | 66 | 120 |
-| last180d | 2026-04-19 | 25 | 349 | 315 | 309 | 192 | 499 |
-| 360d | 2025-10-21 | 51 | 634 | 384 | 491 | 245 | 1169 |
-| last720d | 2024-10-26 | 51 | 634 | 384 | 491 | 245 | 1299 |
+| 30d | 2026-09-17 | 2 | 27 | 86 | 7 | 41 | 67 |
+| last60d | 2026-08-18 | 3 | 70 | 141 | 40 | 60 | 91 |
+| 90d | 2026-07-19 | 7 | 95 | 185 | 77 | 66 | 128 |
+| last180d | 2026-04-20 | 23 | 345 | 316 | 304 | 188 | 507 |
+| 360d | 2025-10-22 | 51 | 637 | 384 | 492 | 245 | 1177 |
+| last720d | 2024-10-27 | 51 | 637 | 384 | 492 | 245 | 1310 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for cc-connect lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:30:04Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T05:19:16Z._
