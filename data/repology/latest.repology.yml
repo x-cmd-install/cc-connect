@@ -1,0 +1,28 @@
+- repo: aur
+  srcname: cc-connect-git
+  binname: cc-connect-git
+  visiblename: cc-connect-git
+  version: 1.2.2.beta.5.r145.g9db0158
+  origversion: 1.2.2.beta.5.r145.g9db0158-1
+  status: rolling
+  summary: Bridge local AI coding agents to messaging platforms
+  maintainers:
+    - sauce@aur
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: cc-connect
+  visiblename: cc-connect
+  version: 1.5.0
+  origversion: null
+  status: newest
+  summary: Bridges local AI coding agents to messaging platforms
+- repo: scoop
+  subrepo: main
+  binname: cc-connect
+  visiblename: cc-connect
+  version: 1.5.0
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
