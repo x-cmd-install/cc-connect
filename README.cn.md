@@ -37,22 +37,22 @@ x install cc-connect
 
 ## 流行度
 
-- **Star**: 16,031 · **Fork**: 1,654 · **开放 issue**: 739 · **贡献者**: 182
+- **Star**: 16,055 · **Fork**: 1,659 · **开放 issue**: 742 · **贡献者**: 182
 
 ## 累计统计
 
-- **发布数**: 51 · **已合并 PR**: 654 · **开放 PR**: 388 · **已关闭 issue**: 511 · **开放 issue**: 228 · **提交数**: 1351
+- **发布数**: 51 · **已合并 PR**: 654 · **开放 PR**: 394 · **已关闭 issue**: 512 · **开放 issue**: 230 · **提交数**: 1351
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 39 | 81 | 8 | 35 | 77 |
-| last60d | 2026-08-23 | 3 | 81 | 141 | 51 | 45 | 112 |
-| 90d | 2026-07-24 | 7 | 107 | 182 | 83 | 52 | 147 |
-| last180d | 2026-04-25 | 21 | 340 | 319 | 301 | 161 | 480 |
-| 360d | 2025-10-27 | 51 | 654 | 388 | 511 | 228 | 1202 |
-| last720d | 2024-11-01 | 51 | 654 | 388 | 511 | 228 | 1351 |
+| 30d | 2026-09-23 | 2 | 39 | 86 | 8 | 36 | 77 |
+| last60d | 2026-08-24 | 3 | 77 | 146 | 49 | 48 | 112 |
+| 90d | 2026-07-25 | 7 | 107 | 189 | 82 | 55 | 147 |
+| last180d | 2026-04-26 | 20 | 338 | 325 | 299 | 161 | 480 |
+| 360d | 2025-10-28 | 51 | 654 | 394 | 512 | 230 | 1202 |
+| last720d | 2024-11-02 | 51 | 654 | 394 | 512 | 230 | 1351 |
 
 ## Release 资产
 
@@ -66,6 +66,14 @@ x install cc-connect
 | [cc-connect-v1.5.0-windows-arm64.zip](https://github.com/chenhg5/cc-connect/releases/download/v1.5.0/cc-connect-v1.5.0-windows-arm64.zip) | 14.5 MiB | `native/win/arm64` |
 | [checksums.txt](https://github.com/chenhg5/cc-connect/releases/download/v1.5.0/checksums.txt) | 1.2 KiB | `other` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/cc-connect) 上共有 **3** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**0** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `1.5.0` | ✅ latest |
+
 ## 改进这些数据
 
 cc-connect 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `cc-connect` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -75,4 +83,4 @@ cc-connect 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:47:52Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:44:02Z._

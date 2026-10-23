@@ -37,22 +37,22 @@ Total: **209,493** lines of code across **587** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 16,031 · **Forks**: 1,654 · **Open issues**: 739 · **Contributors**: 182
+- **Stars**: 16,055 · **Forks**: 1,659 · **Open issues**: 742 · **Contributors**: 182
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 654 · **Open PRs**: 388 · **Closed issues**: 511 · **Open issues**: 228 · **Commits**: 1351
+- **Releases**: 51 · **Merged PRs**: 654 · **Open PRs**: 394 · **Closed issues**: 512 · **Open issues**: 230 · **Commits**: 1351
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 39 | 81 | 8 | 35 | 77 |
-| last60d | 2026-08-23 | 3 | 81 | 141 | 51 | 45 | 112 |
-| 90d | 2026-07-24 | 7 | 107 | 182 | 83 | 52 | 147 |
-| last180d | 2026-04-25 | 21 | 340 | 319 | 301 | 161 | 480 |
-| 360d | 2025-10-27 | 51 | 654 | 388 | 511 | 228 | 1202 |
-| last720d | 2024-11-01 | 51 | 654 | 388 | 511 | 228 | 1351 |
+| 30d | 2026-09-23 | 2 | 39 | 86 | 8 | 36 | 77 |
+| last60d | 2026-08-24 | 3 | 77 | 146 | 49 | 48 | 112 |
+| 90d | 2026-07-25 | 7 | 107 | 189 | 82 | 55 | 147 |
+| last180d | 2026-04-26 | 20 | 338 | 325 | 299 | 161 | 480 |
+| 360d | 2025-10-28 | 51 | 654 | 394 | 512 | 230 | 1202 |
+| last720d | 2024-11-02 | 51 | 654 | 394 | 512 | 230 | 1351 |
 
 ## Release assets
 
@@ -66,6 +66,14 @@ Total: **209,493** lines of code across **587** files in the top 5 languages.
 | [cc-connect-v1.5.0-windows-arm64.zip](https://github.com/chenhg5/cc-connect/releases/download/v1.5.0/cc-connect-v1.5.0-windows-arm64.zip) | 14.5 MiB | `native/win/arm64` |
 | [checksums.txt](https://github.com/chenhg5/cc-connect/releases/download/v1.5.0/checksums.txt) | 1.2 KiB | `other` |
 
+## Distribution status
+
+Reported by **3** distros on [repology.org](https://repology.org/project/cc-connect). **2** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `1.5.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for cc-connect lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `cc-connect` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -75,4 +83,4 @@ Install metadata for cc-connect lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:47:51Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:44:01Z._
