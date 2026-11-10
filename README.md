@@ -14,11 +14,11 @@ x install cc-connect
 
 ## Code insight
 
-Total: **221,553** lines of code across **635** files in the top 5 languages.
+Total: **222,167** lines of code across **635** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 206,661 | 17,777 | 24,268 | 564 |
+| Go | 207,275 | 17,752 | 24,302 | 564 |
 | Tsx | 6,695 | 81 | 491 | 31 |
 | Json | 4,262 | 0 | 0 | 15 |
 | Yaml | 2,173 | 0 | 601 | 2 |
@@ -37,22 +37,22 @@ Total: **221,553** lines of code across **635** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 16,277 · **Forks**: 1,713 · **Open issues**: 766 · **Contributors**: 198
+- **Stars**: 16,309 · **Forks**: 1,721 · **Open issues**: 769 · **Contributors**: 199
 
 ## Totals (cumulative)
 
-- **Releases**: 53 · **Merged PRs**: 722 · **Open PRs**: 382 · **Closed issues**: 535 · **Open issues**: 231 · **Commits**: 1524
+- **Releases**: 53 · **Merged PRs**: 723 · **Open PRs**: 367 · **Closed issues**: 537 · **Open issues**: 232 · **Commits**: 1527
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 2 | 60 | 105 | 8 | 33 | 66 |
-| last60d | 2026-09-09 | 4 | 106 | 158 | 38 | 56 | 171 |
-| 90d | 2026-08-10 | 9 | 150 | 202 | 76 | 64 | 204 |
-| last180d | 2026-05-12 | 21 | 340 | 320 | 287 | 141 | 456 |
-| 360d | 2025-11-13 | 53 | 722 | 382 | 535 | 231 | 1307 |
-| last720d | 2024-11-18 | 53 | 722 | 382 | 535 | 231 | 1524 |
+| 30d | 2026-10-11 | 2 | 56 | 107 | 8 | 33 | 66 |
+| last60d | 2026-09-11 | 4 | 105 | 158 | 30 | 59 | 173 |
+| 90d | 2026-08-12 | 9 | 149 | 206 | 74 | 65 | 206 |
+| last180d | 2026-05-14 | 21 | 330 | 320 | 283 | 135 | 458 |
+| 360d | 2025-11-15 | 53 | 723 | 367 | 537 | 232 | 1309 |
+| last720d | 2024-11-20 | 53 | 723 | 367 | 537 | 232 | 1527 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for cc-connect lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:59:57Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:39:08Z._
