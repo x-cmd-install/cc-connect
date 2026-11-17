@@ -14,13 +14,13 @@ x install cc-connect
 
 ## 代码洞察
 
-合计: **228,413** 行代码（覆盖前 5 种语言、共 **669** 个文件）。
+合计: **230,040** 行代码（覆盖前 5 种语言、共 **674** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 213,473 | 18,110 | 24,720 | 598 |
+| Go | 215,073 | 18,464 | 24,909 | 603 |
 | Tsx | 6,695 | 81 | 491 | 31 |
-| Json | 4,310 | 0 | 0 | 15 |
+| Json | 4,337 | 0 | 0 | 15 |
 | Yaml | 2,173 | 0 | 601 | 2 |
 | TypeScript | 1,059 | 13 | 115 | 23 |
 
@@ -31,48 +31,40 @@ x install cc-connect
 
 ## 发布
 
-- **最新版本**: `v1.5.2-beta.1` (2026-08-16)
-- **最近提交**: 2026-11-16
+- **最新版本**: `v1.5.3-beta.1` (2026-11-16)
+- **最近提交**: 2026-11-17
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 16,396 · **Fork**: 1,749 · **开放 issue**: 774 · **贡献者**: 210
+- **Star**: 16,410 · **Fork**: 1,753 · **开放 issue**: 783 · **贡献者**: 211
 
 ## 累计统计
 
-- **发布数**: 53 · **已合并 PR**: 756 · **开放 PR**: 307 · **已关闭 issue**: 542 · **开放 issue**: 232 · **提交数**: 1646
+- **发布数**: 55 · **已合并 PR**: 765 · **开放 PR**: 294 · **已关闭 issue**: 545 · **开放 issue**: 238 · **提交数**: 1676
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 2 | 65 | 102 | 9 | 27 | 86 |
-| last60d | 2026-09-17 | 4 | 121 | 156 | 26 | 59 | 222 |
-| 90d | 2026-08-18 | 5 | 171 | 198 | 72 | 65 | 271 |
-| last180d | 2026-05-20 | 21 | 343 | 280 | 276 | 119 | 512 |
-| 360d | 2025-11-21 | 53 | 756 | 307 | 542 | 232 | 1388 |
-| last720d | 2024-11-26 | 53 | 756 | 307 | 542 | 232 | 1646 |
+| 30d | 2026-10-18 | 4 | 67 | 99 | 11 | 33 | 98 |
+| last60d | 2026-09-18 | 6 | 127 | 150 | 27 | 65 | 237 |
+| 90d | 2026-08-19 | 7 | 177 | 193 | 74 | 71 | 287 |
+| last180d | 2026-05-21 | 23 | 350 | 266 | 278 | 122 | 529 |
+| 360d | 2025-11-22 | 55 | 765 | 294 | 545 | 238 | 1405 |
+| last720d | 2024-11-27 | 55 | 765 | 294 | 545 | 238 | 1676 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [cc-connect-v1.5.0-darwin-amd64.tar.gz](https://github.com/chenhg5/cc-connect/releases/download/v1.5.0/cc-connect-v1.5.0-darwin-amd64.tar.gz) | 16.3 MiB | `native/darwin/x64` |
-| [cc-connect-v1.5.0-darwin-arm64.tar.gz](https://github.com/chenhg5/cc-connect/releases/download/v1.5.0/cc-connect-v1.5.0-darwin-arm64.tar.gz) | 15.3 MiB | `native/darwin/arm64` |
-| [cc-connect-v1.5.0-linux-amd64.tar.gz](https://github.com/chenhg5/cc-connect/releases/download/v1.5.0/cc-connect-v1.5.0-linux-amd64.tar.gz) | 15.8 MiB | `native/linux/x64` |
-| [cc-connect-v1.5.0-linux-arm64.tar.gz](https://github.com/chenhg5/cc-connect/releases/download/v1.5.0/cc-connect-v1.5.0-linux-arm64.tar.gz) | 14.5 MiB | `native/linux/arm64` |
-| [cc-connect-v1.5.0-windows-amd64.zip](https://github.com/chenhg5/cc-connect/releases/download/v1.5.0/cc-connect-v1.5.0-windows-amd64.zip) | 16.1 MiB | `native/win/x64` |
-| [cc-connect-v1.5.0-windows-arm64.zip](https://github.com/chenhg5/cc-connect/releases/download/v1.5.0/cc-connect-v1.5.0-windows-arm64.zip) | 14.5 MiB | `native/win/arm64` |
-| [checksums.txt](https://github.com/chenhg5/cc-connect/releases/download/v1.5.0/checksums.txt) | 1.2 KiB | `other` |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/cc-connect) 上共有 **3** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**0** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `1.5.0` | ✅ latest |
+| [cc-connect-v1.5.2-darwin-amd64.tar.gz](https://github.com/chenhg5/cc-connect/releases/download/v1.5.2/cc-connect-v1.5.2-darwin-amd64.tar.gz) | 16.5 MiB | `native/darwin/x64` |
+| [cc-connect-v1.5.2-darwin-arm64.tar.gz](https://github.com/chenhg5/cc-connect/releases/download/v1.5.2/cc-connect-v1.5.2-darwin-arm64.tar.gz) | 15.5 MiB | `native/darwin/arm64` |
+| [cc-connect-v1.5.2-linux-amd64.tar.gz](https://github.com/chenhg5/cc-connect/releases/download/v1.5.2/cc-connect-v1.5.2-linux-amd64.tar.gz) | 16.0 MiB | `native/linux/x64` |
+| [cc-connect-v1.5.2-linux-arm64.tar.gz](https://github.com/chenhg5/cc-connect/releases/download/v1.5.2/cc-connect-v1.5.2-linux-arm64.tar.gz) | 14.7 MiB | `native/linux/arm64` |
+| [cc-connect-v1.5.2-windows-amd64.zip](https://github.com/chenhg5/cc-connect/releases/download/v1.5.2/cc-connect-v1.5.2-windows-amd64.zip) | 16.4 MiB | `native/win/x64` |
+| [cc-connect-v1.5.2-windows-arm64.zip](https://github.com/chenhg5/cc-connect/releases/download/v1.5.2/cc-connect-v1.5.2-windows-arm64.zip) | 14.7 MiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/chenhg5/cc-connect/releases/download/v1.5.2/checksums.txt) | 1.2 KiB | `other` |
 
 ## 改进这些数据
 
@@ -83,4 +75,4 @@ cc-connect 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T08:11:08Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T10:57:08Z._
