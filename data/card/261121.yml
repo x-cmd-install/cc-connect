@@ -1,0 +1,166 @@
+about:
+  description: "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms."
+  license: NOASSERTION
+  homepage: 
+  head: 68cacce
+  archived: false
+  latestVersion: "v1.5.3"
+  latestRelease: "v1.5.3"
+  latestPrerelease: "v1.5.3-beta.2"
+  collectedAt: 2026-11-21T08:45:47Z
+timeline:
+  created: 2026-02-28
+  lastCommit: 2026-11-21
+  lastVersion: 2026-11-20
+  lastRelease: 2026-11-20
+  lastPrerelease: 2026-11-18
+popularity:
+  star: 16445
+  watcher: 29
+  fork: 1762
+  release: 57
+  contributor: 220
+  pullRequest: 1519
+  issue: 789
+language:
+  Go: 8172717
+  TypeScript: 336090
+  JavaScript: 9854
+  Makefile: 7966
+  HTML: 4880
+  Shell: 4633
+  CSS: 1962
+totalBytes: 8538102
+recent:
+  last30d:
+    since: 2026-10-22
+    release: 6
+    mergedPR: 72
+    openPR: 106
+    closedIssue: 13
+    openIssue: 34
+    commit: 116
+  last60d:
+    since: 2026-09-22
+    release: 8
+    mergedPR: 137
+    openPR: 153
+    closedIssue: 27
+    openIssue: 66
+    commit: 255
+  last90d:
+    since: 2026-08-23
+    release: 9
+    mergedPR: 190
+    openPR: 189
+    closedIssue: 74
+    openIssue: 72
+    commit: 305
+  last180d:
+    since: 2026-05-25
+    release: 24
+    mergedPR: 358
+    openPR: 240
+    closedIssue: 268
+    openIssue: 113
+    commit: 547
+  last360d:
+    since: 2025-11-26
+    release: 57
+    mergedPR: 781
+    openPR: 267
+    closedIssue: 560
+    openIssue: 229
+    commit: 1423
+  last720d:
+    since: 2024-12-01
+    release: 57
+    mergedPR: 781
+    openPR: 267
+    closedIssue: 560
+    openIssue: 229
+    commit: 1711
+total:
+  release: 57
+  mergedPR: 781
+  openPR: 267
+  closedIssue: 560
+  openIssue: 229
+  commit: 1711
+---
+path: /home/runner/.x-repo/github.com/chenhg5/cc-connect
+collectedAt: 2026-11-21T08:45:54Z
+loc:
+  Go:
+    code: 217023
+    comments: 18698
+    blanks: 25089
+    files: 609
+  Tsx:
+    code: 6695
+    comments: 81
+    blanks: 491
+    files: 31
+  Json:
+    code: 4412
+    comments: 0
+    blanks: 0
+    files: 15
+  Yaml:
+    code: 2173
+    comments: 0
+    blanks: 601
+    files: 2
+  TypeScript:
+    code: 1059
+    comments: 13
+    blanks: 115
+    files: 23
+  JavaScript:
+    code: 259
+    comments: 10
+    blanks: 32
+    files: 3
+  Makefile:
+    code: 127
+    comments: 49
+    blanks: 34
+    files: 1
+  Sh:
+    code: 101
+    comments: 31
+    blanks: 9
+    files: 1
+  Css:
+    code: 99
+    comments: 2
+    blanks: 7
+    files: 1
+  Html:
+    code: 64
+    comments: 0
+    blanks: 34
+    files: 2
+  Svg:
+    code: 39
+    comments: 3
+    blanks: 3
+    files: 6
+  Toml:
+    code: 14
+    comments: 2311
+    blanks: 158
+    files: 1
+  Markdown:
+    code: 0
+    comments: 12117
+    blanks: 5946
+    files: 57
+total:
+  code: 237327
+  comments: 33820
+  blanks: 33084
+  files: 752
+---
+
+---
