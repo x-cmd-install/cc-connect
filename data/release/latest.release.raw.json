@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 17705528,
       "digest": "sha256:6e8a615cf01b0cc64c0a1a7852cc55ddde4ffac408fe2b43e67ac285d8f2442c",
-      "download_count": 49,
+      "download_count": 60,
       "created_at": "2026-11-20T13:04:33Z",
       "updated_at": "2026-11-20T13:04:46Z",
       "browser_download_url": "https://github.com/chenhg5/cc-connect/releases/download/v1.5.3/cc-connect-v1.5.3-darwin-amd64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 16686929,
       "digest": "sha256:a3bc1a7ab38acd6fbcddb05abf66c38f195c4bc129ecd7c9ff237897a6965159",
-      "download_count": 432,
+      "download_count": 518,
       "created_at": "2026-11-20T13:04:34Z",
       "updated_at": "2026-11-20T13:04:45Z",
       "browser_download_url": "https://github.com/chenhg5/cc-connect/releases/download/v1.5.3/cc-connect-v1.5.3-darwin-arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 17157127,
       "digest": "sha256:bb52caa4d3c601cfa41eece75819623423ce02a8dd554779913040a943fff358",
-      "download_count": 491,
+      "download_count": 622,
       "created_at": "2026-11-20T13:04:33Z",
       "updated_at": "2026-11-20T13:04:47Z",
       "browser_download_url": "https://github.com/chenhg5/cc-connect/releases/download/v1.5.3/cc-connect-v1.5.3-linux-amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 15714779,
       "digest": "sha256:b08104a83fd005abd00c3b5f745ef0b7690d5a61f2711b49b0a1703815ce9e18",
-      "download_count": 59,
+      "download_count": 68,
       "created_at": "2026-11-20T13:04:33Z",
       "updated_at": "2026-11-20T13:04:44Z",
       "browser_download_url": "https://github.com/chenhg5/cc-connect/releases/download/v1.5.3/cc-connect-v1.5.3-linux-arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 17534716,
       "digest": "sha256:311b2e92a0301c2bdbbdf49e506fe7ed866554279b9088b03ecb526f020cda0b",
-      "download_count": 774,
+      "download_count": 954,
       "created_at": "2026-11-20T13:04:33Z",
       "updated_at": "2026-11-20T13:04:47Z",
       "browser_download_url": "https://github.com/chenhg5/cc-connect/releases/download/v1.5.3/cc-connect-v1.5.3-windows-amd64.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 15789493,
       "digest": "sha256:a2354055b7a2fd6882db5af7e501fbc29a38200fc3c0c4a668d4e0ec4ef0d56b",
-      "download_count": 49,
+      "download_count": 54,
       "created_at": "2026-11-20T13:04:46Z",
       "updated_at": "2026-11-20T13:04:49Z",
       "browser_download_url": "https://github.com/chenhg5/cc-connect/releases/download/v1.5.3/cc-connect-v1.5.3-windows-arm64.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1208,
       "digest": "sha256:9166888f0754c4eff8c7dc1ed2eaf98b523511e693aacd2e9c7ca47836aa52f7",
-      "download_count": 228,
+      "download_count": 281,
       "created_at": "2026-11-20T13:04:48Z",
       "updated_at": "2026-11-20T13:04:48Z",
       "browser_download_url": "https://github.com/chenhg5/cc-connect/releases/download/v1.5.3/checksums.txt"
