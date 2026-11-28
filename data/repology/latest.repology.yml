@@ -13,7 +13,7 @@
 - repo: homebrew
   srcname: cc-connect
   visiblename: cc-connect
-  version: 1.5.3
+  version: 1.5.4
   origversion: null
   status: newest
   summary: Bridges local AI coding agents to messaging platforms
@@ -21,7 +21,7 @@
   subrepo: main
   binname: cc-connect
   visiblename: cc-connect
-  version: 1.5.3
+  version: 1.5.4
   origversion: null
   status: newest
   licenses:
