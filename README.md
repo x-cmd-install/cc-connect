@@ -14,11 +14,11 @@ x install cc-connect
 
 ## Code insight
 
-Total: **245,726** lines of code across **766** files in the top 5 languages.
+Total: **247,570** lines of code across **776** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 230,404 | 19,224 | 25,991 | 694 |
+| Go | 232,248 | 19,387 | 26,122 | 704 |
 | Tsx | 6,728 | 81 | 493 | 31 |
 | Json | 4,625 | 0 | 0 | 15 |
 | Yaml | 2,173 | 0 | 601 | 2 |
@@ -31,40 +31,48 @@ Total: **245,726** lines of code across **766** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.5.4-beta.1` (2026-11-20)
-- **Last commit**: 2026-11-27
+- **Latest**: `v1.5.4` (2026-11-27)
+- **Last commit**: 2026-11-28
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 16,506 · **Forks**: 1,785 · **Open issues**: 793 · **Contributors**: 227
+- **Stars**: 16,514 · **Forks**: 1,787 · **Open issues**: 794 · **Contributors**: 229
 
 ## Totals (cumulative)
 
-- **Releases**: 58 · **Merged PRs**: 886 · **Open PRs**: 216 · **Closed issues**: 630 · **Open issues**: 163 · **Commits**: 1971
+- **Releases**: 59 · **Merged PRs**: 896 · **Open PRs**: 208 · **Closed issues**: 631 · **Open issues**: 163 · **Commits**: 2005
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 6 | 153 | 80 | 26 | 18 | 221 |
-| last60d | 2026-09-28 | 8 | 229 | 134 | 45 | 41 | 344 |
-| 90d | 2026-08-29 | 9 | 278 | 162 | 88 | 50 | 431 |
-| last180d | 2026-05-31 | 24 | 451 | 201 | 281 | 77 | 666 |
-| 360d | 2025-12-02 | 58 | 886 | 216 | 630 | 163 | 1568 |
-| last720d | 2024-12-07 | 58 | 886 | 216 | 630 | 163 | 1971 |
+| 30d | 2026-10-29 | 7 | 157 | 70 | 27 | 17 | 235 |
+| last60d | 2026-09-29 | 9 | 234 | 124 | 46 | 41 | 360 |
+| 90d | 2026-08-30 | 10 | 288 | 154 | 89 | 50 | 448 |
+| last180d | 2026-06-01 | 25 | 456 | 193 | 276 | 76 | 683 |
+| 360d | 2025-12-03 | 59 | 896 | 208 | 631 | 163 | 1585 |
+| last720d | 2024-12-08 | 59 | 896 | 208 | 631 | 163 | 2005 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [cc-connect-v1.5.3-darwin-amd64.tar.gz](https://github.com/chenhg5/cc-connect/releases/download/v1.5.3/cc-connect-v1.5.3-darwin-amd64.tar.gz) | 16.9 MiB | `native/darwin/x64` |
-| [cc-connect-v1.5.3-darwin-arm64.tar.gz](https://github.com/chenhg5/cc-connect/releases/download/v1.5.3/cc-connect-v1.5.3-darwin-arm64.tar.gz) | 15.9 MiB | `native/darwin/arm64` |
-| [cc-connect-v1.5.3-linux-amd64.tar.gz](https://github.com/chenhg5/cc-connect/releases/download/v1.5.3/cc-connect-v1.5.3-linux-amd64.tar.gz) | 16.4 MiB | `native/linux/x64` |
-| [cc-connect-v1.5.3-linux-arm64.tar.gz](https://github.com/chenhg5/cc-connect/releases/download/v1.5.3/cc-connect-v1.5.3-linux-arm64.tar.gz) | 15.0 MiB | `native/linux/arm64` |
-| [cc-connect-v1.5.3-windows-amd64.zip](https://github.com/chenhg5/cc-connect/releases/download/v1.5.3/cc-connect-v1.5.3-windows-amd64.zip) | 16.7 MiB | `native/win/x64` |
-| [cc-connect-v1.5.3-windows-arm64.zip](https://github.com/chenhg5/cc-connect/releases/download/v1.5.3/cc-connect-v1.5.3-windows-arm64.zip) | 15.1 MiB | `native/win/arm64` |
-| [checksums.txt](https://github.com/chenhg5/cc-connect/releases/download/v1.5.3/checksums.txt) | 1.2 KiB | `other` |
+| [cc-connect-v1.5.4-darwin-amd64.tar.gz](https://github.com/chenhg5/cc-connect/releases/download/v1.5.4/cc-connect-v1.5.4-darwin-amd64.tar.gz) | 16.9 MiB | `native/darwin/x64` |
+| [cc-connect-v1.5.4-darwin-arm64.tar.gz](https://github.com/chenhg5/cc-connect/releases/download/v1.5.4/cc-connect-v1.5.4-darwin-arm64.tar.gz) | 15.9 MiB | `native/darwin/arm64` |
+| [cc-connect-v1.5.4-linux-amd64.tar.gz](https://github.com/chenhg5/cc-connect/releases/download/v1.5.4/cc-connect-v1.5.4-linux-amd64.tar.gz) | 16.4 MiB | `native/linux/x64` |
+| [cc-connect-v1.5.4-linux-arm64.tar.gz](https://github.com/chenhg5/cc-connect/releases/download/v1.5.4/cc-connect-v1.5.4-linux-arm64.tar.gz) | 15.0 MiB | `native/linux/arm64` |
+| [cc-connect-v1.5.4-windows-amd64.zip](https://github.com/chenhg5/cc-connect/releases/download/v1.5.4/cc-connect-v1.5.4-windows-amd64.zip) | 16.8 MiB | `native/win/x64` |
+| [cc-connect-v1.5.4-windows-arm64.zip](https://github.com/chenhg5/cc-connect/releases/download/v1.5.4/cc-connect-v1.5.4-windows-arm64.zip) | 15.1 MiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/chenhg5/cc-connect/releases/download/v1.5.4/checksums.txt) | 1.2 KiB | `other` |
+
+## Distribution status
+
+Reported by **3** distros on [repology.org](https://repology.org/project/cc-connect). **2** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `1.5.4` | ✅ latest |
 
 ## Improve this data
 
@@ -75,4 +83,4 @@ Install metadata for cc-connect lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:59:30Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T09:00:11Z._
